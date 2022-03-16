@@ -10,6 +10,9 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
 #### I am familiar with: 
+![https://github.com/mukeshraeee/mukeshraeee/](r.png) ![https://github.com/mukeshraeee/mukeshraeee/](python.png) ![https://github.com/mukeshraeee/mukeshraeee/](latex.png)
+
+
 <img src="https://github.com/mukeshraeee/mukeshraeee/r.png" alt="r" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/python.png" alt="python" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/latex.png" alt="latex" width="40" height="40" /> <img 
