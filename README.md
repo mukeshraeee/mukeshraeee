@@ -1,5 +1,6 @@
+(cover.jpg)
 ### Hi there 👋
-
+My name is **Mukesh Rai**. I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 <!--
 **mukeshraeee/mukeshraeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
