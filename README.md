@@ -13,7 +13,7 @@ I would like to answer the scientific questions in the atmospheric science field
 <img src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png" alt="r" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/python.png" alt="python" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/latex.png" alt="latex" width="40" height="40" /> <img 
-src="https://github.com/mukeshraeee/mukeshraeee/blob/main/ubuntu.png" alt="ubuntu" width="40" height="40" />
+src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux.png" alt="linux" width="40" height="40" />
 #
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
