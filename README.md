@@ -5,7 +5,7 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 #
 - 🎓 *Masters in Science, Environment @ [CDES-TU, Nepal](http://www.cdes.edu.np/) 2013*
 - 🎓 *Masters by Research, Glaciology @ [DESE-TU, Nepal](https://ese.ku.edu.np/) 2015*
-- 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) 2015*
+- 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) June, 2022*
 #
 #### I am familiar with: 
 <img src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png" alt="r" width="40" height="40" /> <img 
