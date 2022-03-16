@@ -1,4 +1,4 @@
-(cover.jpg)
+![https://github.com/mukeshraeee/mukeshraeee/](cover.jpg)
 ### Hi there 👋
 My name is **Mukesh Rai**. I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 <!--
