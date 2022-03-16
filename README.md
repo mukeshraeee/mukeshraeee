@@ -11,8 +11,9 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <img src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png" alt="r" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/python.png" alt="python" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/latex.png" alt="latex" width="40" height="40" /> <img 
-src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux1.png" alt="linux" width="40" height="40" />
+src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux.png" alt="linux" width="40" height="40" />
 #
 - 🔭 I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
-- 📫 How to reach me: @[Twitter](https://twitter.com/MukeshRaee/) 
+- 📫 How to reach me: @[Twitter](https://twitter.com/MukeshRaee/) @[LinkedIn](https://www.linkedin.com/in/mukesh-rai-5b5b3b85/) @[Orcid](https://orcid.org/0000-0001-7138-0459)
+                       
