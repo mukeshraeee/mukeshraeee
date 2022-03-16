@@ -1,10 +1,16 @@
 ![https://github.com/mukeshraeee/mukeshraeee/](cover.jpg)
 ### Hi there 👋
 My name is **Mukesh Rai**. I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
-<!--
-**mukeshraeee/mukeshraeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+#
 
-Here are some ideas to get you started:
+- 🎓 *Masters in Science, Environment @ [CDES-TU, Nepal](http://www.cdes.edu.np/) 2013*
+- 🎓 *Masters by Research, Glaciology @ [DESE-TU, Nepal](https://ese.ku.edu.np/) 2015*
+- 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) 2015*
+
+I've been using programming for the data analysis and post-processing for the observation, satellite, reanalysis, and model data (mainly atmospheric aerosols data set).
+
+#### I am familiar with: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
