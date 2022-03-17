@@ -8,7 +8,7 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 - 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) June, 2022*
 # Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/mukeshraeee#gh-dark-mode-only)
 <img src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png" alt="r" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/python.png" alt="python" width="40" height="40" /> <img 
 src="https://github.com/mukeshraeee/mukeshraeee/blob/main/latex.png" alt="linux4" width="40" height="40" /> <img 
@@ -20,6 +20,6 @@ src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux4.png" alt="latex
 [![website](./img/twitter-light.svg)](https://twitter.com/MukeshRaee/#gh-dark-mode-only)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mukesh-rai-5b5b3b85#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mukesh_raee#gh-dark-mode-only)
-
+#
 
                        
