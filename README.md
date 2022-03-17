@@ -14,8 +14,8 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg", style="padding-right:10px;"  /> 
 #            
-### Connect with me:
-
+## Connect with me:
+#
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-light.svg)](https://twitter.com/MukeshRaee#gh-light-mode-only)
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-dark.svg)](https://twitter.com/MukeshRaee#gh-dark-mode-only)
 &nbsp;&nbsp;                       
