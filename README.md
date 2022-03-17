@@ -14,11 +14,10 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg", style="padding-right:10px;" />
-#
 
 - I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
                
-#Connect with me:
+## Connect with me:
 
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-light.svg)](https://twitter.com/MukeshRaee#gh-light-mode-only)
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-dark.svg)](https://twitter.com/MukeshRaee#gh-dark-mode-only)
@@ -28,4 +27,4 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 &nbsp;&nbsp;
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/instagram-light.svg)](https://www.instagram.com/mukesh_raee/#gh-light-mode-only)
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/instagram-dark.svg)](https://www.instagram.com/mukesh_raee/#gh-dark-mode-only)
-
+&nbsp;&nbsp;
