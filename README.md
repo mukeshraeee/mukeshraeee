@@ -18,7 +18,7 @@ src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux4.png" alt="latex
 - 🔭 I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
 - 📫 How to reach me: [@Twitter](https://twitter.com/MukeshRaee) [@LinkedIn](https://www.linkedin.com/in/mukesh-rai-5b5b3b85)
--                      [@Instagram](https://www.instagram.com/mukesh_rae) [@ORCID](https://orcid.org/0000-0001-7138-0459)
+                       [@Instagram](https://www.instagram.com/mukesh_rae) [@ORCID](https://orcid.org/0000-0001-7138-0459)
 #
 
                        
