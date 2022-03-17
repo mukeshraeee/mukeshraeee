@@ -10,10 +10,10 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png", style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/python.png", style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/latex.png", style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux4.png", style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/r.png", style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/python.png", style="padding-right:10px;" />
+<img align="left" alt="Latex" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/latex.png", style="padding-right:10px;" />
+<img align="left" alt="Linuxb" width="26px" src="https://github.com/mukeshraeee/mukeshraeee/blob/main/linux4.png", style="padding-right:10px;" />
 #
 - 🔭 I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
