@@ -1,7 +1,7 @@
 ![https://github.com/mukeshraeee/mukeshraeee/](cover.jpg)
 
-### Hi there 👋
-#
+# Hi there 👋
+
 My name is **Mukesh Rai**. I've been using programming for the data analysis and post-processing for the observation, satellite, reanalysis, and model data (mainly atmospheric aerosols data set). I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
 - 🎓 *Masters in Science, Environment @ [CDES-TU, Nepal](http://www.cdes.edu.np/) 2013*
@@ -13,7 +13,9 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg", style="padding-right:10px;"  <br/>
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg", style="padding-right:10px;"  
+<br />
+<br />
 
  ### Connect with me:
 
