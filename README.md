@@ -21,8 +21,4 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-light.svg)](https://twitter.com/MukeshRaee#gh-light-mode-only)
 [![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/twitter-dark.svg)](https://twitter.com/MukeshRaee#gh-dark-mode-only)
 &nbsp;&nbsp;                       
-[![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/linkedin-light.svg)](https://www.linkedin.com/in/mukesh-rai-5b5b3b85#gh-light-mode-only)
-[![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/mukesh-rai-5b5b3b85#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/instagram-light.svg)](https://www.instagram.com/mukesh_raee/#gh-light-mode-only)
-[![website](https://github.com/mukeshraeee/mukeshraeee/blob/main/img/instagram-dark.svg)](https://www.instagram.com/mukesh_raee/#gh-dark-mode-only)
+
