@@ -15,7 +15,6 @@ My name is **Mukesh Rai**. I've been using programming for the data analysis and
 <br />
 <br />
 
-
 #
 - 🔭 I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
 #
