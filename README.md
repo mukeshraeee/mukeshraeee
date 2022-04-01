@@ -1,5 +1,8 @@
 ![https://github.com/mukeshraeee/mukeshraeee/](cover.jpg)
 
+![GitHub followers](https://img.shields.io/github/followers/mukeshraeee?logo=Github&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/MukeshRaee?style=social)
+
 # Hi there 👋
 
 My name is **Mukesh Rai**. I've been using programming in the data analysis and post-processing for the observation, satellite, reanalysis, and model data (mainly atmospheric aerosols data set). I would like to answer the scientific questions in the atmospheric science field using observation data, modeling, and satellite product.
