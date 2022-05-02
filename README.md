@@ -10,6 +10,8 @@ My name is **Mukesh Rai**. I've been using programming in the data analysis and 
 - 🎓 *Masters in Science, Environment @ [CDES-TU, Nepal](http://www.cdes.edu.np/) 2013*
 - 🎓 *Masters by Research, Glaciology @ [DESE-KU, Nepal](https://ese.ku.edu.np/) 2015*
 - 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) June, 2022*
+- ![BC_animation3](https://user-images.githubusercontent.com/99009788/166259993-e9093a01-a4c6-4aeb-b0b4-1e12070777c3.gif)
+
 #
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
