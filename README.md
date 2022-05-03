@@ -12,8 +12,9 @@ My name is **Mukesh Rai**. I've been using programming in the data analysis and 
 - 🎓 *Doctorate in Science, Atmospheric modeling @ [UCAS, China](https://ic-en.ucas.ac.cn/) June, 2022*
 
 
- ![BC_animation3](https://user-images.githubusercontent.com/99009788/166259993-e9093a01-a4c6-4aeb-b0b4-1e12070777c3.gif) 
- ![idt](https://user-images.githubusercontent.com/99009788/166400710-b30de2f3-28c3-40ec-a452-c575e7a82921.gif)
+ 
+ ![gif1](https://user-images.githubusercontent.com/99009788/166401162-c60e5486-74f0-443e-b375-f31b36f9de70.gif)
+
 
 
 #
