@@ -74,16 +74,16 @@ I'm a **Research Associate** specializing in atmospheric science, emissions inve
 
 <table>
 <tr>
-  <td><strong>Postdoctoral Researcher</strong></td>
+  <td><strong>Air Quality Modeler & Research Assistant</strong></td>
   <td><a href="https://www.icimod.org/">International Centre for Integrated Mountain Development (ICIMOD)</a>, Nepal<br><em>2022 - 2024</em></td>
 </tr>
 <tr>
   <td colspan="2">
     <ul>
-      <li>Investigated aerosol transport, black carbon deposition, and climate impacts on Himalayan glaciers</li>
+      <li>Modeled aerosol transport, black carbon deposition, and climate impacts on Himalayan glaciers</li>
       <li>Analyzed satellite data and model simulations for Pan-Third Pole atmospheric composition</li>
       <li>Developed Python workflows for processing multi-sensor remote sensing datasets</li>
-      <li>Collaborated with international teams on climate and air quality research publications</li>
+      <li>Collaborated with international teams on climate and air quality research and publications</li>
     </ul>
   </td>
 </tr>
