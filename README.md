@@ -57,6 +57,23 @@ I'm a **Research Associate** specializing in atmospheric science, emissions inve
 
 <table>
 <tr>
+  <td><strong>Postdoctoral Fellow</strong></td>
+  <td><a href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory/Caltech</a>, Pasadena, CA<br><em>Jan 2023 - May 2025</em></td>
+</tr>
+<tr>
+  <td colspan="2">
+    <ul>
+      <li>Developed the Trace Gas Atmospheric River (TGAR) algorithm to quantify extreme atmospheric events for trace gases including CO, tropospheric ozone, and peroxyacetyl nitrates (PANs)</li>
+      <li>Identified intensity and frequency of major TGAR transport pathways globally, quantifying contributions to air quality degradation in megacities</li>
+      <li>Collaborated with research scientists, engineers, and state and local-level authorities on algorithm automation, optimization, and validation of data from assimilation systems</li>
+      <li>Published research on trace gas atmospheric rivers and their role as remote drivers of air pollution events</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
   <td><strong>Postdoctoral Researcher</strong></td>
   <td><a href="https://www.icimod.org/">International Centre for Integrated Mountain Development (ICIMOD)</a>, Nepal<br><em>2022 - 2024</em></td>
 </tr>
