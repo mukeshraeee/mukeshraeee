@@ -4,7 +4,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/MukeshRaee?style=social)
 
 # Hi there 👋
-My name is **Mukesh Rai**. I specialize in utilizing programming for data analysis and post-processing of various atmospheric datasets, including observational, satellite, reanalysis, and model data. My primary research focuses on air quality study by leveraging satellite data, chemical reanalysis datasets, and modeling. 
+My name is **Mukesh Rai**. I specialize in utilizing programming for data analysis and post-processing of various atmospheric datasets, including observational, satellite, reanalysis, and model datasets. I have extensive experience working with meteorological datasets and models such as WRF, FLEXPART and HYSPLIT. I also have a background in aerosol physics, atmospheric optics and radiation, and climate modeling.
+
 #
 - 🎓 *Masters in Science, Environment @ [CDES-TU, Nepal](http://www.cdes.edu.np/) 2013*
 - 🎓 *Masters by Research, Glaciology @ [DESE-KU, Nepal](https://ese.ku.edu.np/) 2015*
@@ -17,6 +18,7 @@ My name is **Mukesh Rai**. I specialize in utilizing programming for data analys
   <img src="https://user-images.githubusercontent.com/99009788/166402906-53eaacf0-5ff2-4ec8-89a5-4b4a3418a4b4.gif" width="220" />
   <img src="https://user-images.githubusercontent.com/99009788/167053051-4213bcd0-d84f-4ed4-a7ec-3d22c4108542.gif" width="220" />
   <img src="https://github.com/mukeshraeee/mukeshraeee/assets/99009788/e97a173f-838d-42ad-97a8-e4cc34afb12c" width="220" />
+  <img src="img/hysplit_nepalgunj_animation_hires.gif" width="220" />
 </p>
 
 
